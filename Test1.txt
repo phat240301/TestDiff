@@ -1,4 +1,4 @@
 master
-local repo
+local repo 2
 remote
 
