@@ -1,5 +1,10 @@
 master
+<<<<<<< HEAD
 local repo
 remote 2 
 
+=======
+local repo 2
+remote
+>>>>>>> 74bcd304ea4d94df9e9137db71a3b473a0132657
 
